@@ -1,0 +1,2 @@
+telegram_token= "6632573232:AAFk82tBnbdVrYxVgsmnW7t4a48l3UQJmno"
+MI_CHAT_ID= 6150079819
